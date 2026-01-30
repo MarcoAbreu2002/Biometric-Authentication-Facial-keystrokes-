@@ -40,8 +40,3 @@ To start the application:
 ```bash
 python3 bankApp.py
 ```
-
-```
-
-Se quiseres um tom mais “corporate”, mais técnico, ou mais simples para GitHub público, ajusto num instante.
-```
