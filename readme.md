@@ -1,4 +1,3 @@
-````markdown
 # Banking Application
 
 Banking application with facial recognition and keystroke dynamics authentication.
